@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Contrato comum: tanto uma Folha quanto um Grupo podem executar().
-interface Componente {
+interface  Componente {
     void executar();
 }
 

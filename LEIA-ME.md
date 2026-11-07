@@ -1,5 +1,8 @@
 # Templates para memorizar
 
+Cada pasta de 01 a 07 tambem possui Aplicacao.java: um caso concreto comentado
+ao lado do template Main.java. Veja APLICACOES.md para os casos e a execucao.
+
 Inclui todos os seis padroes GoF desenvolvidos nas aulas 1 a 8 e um exemplo
 adicional de MVC, apresentado na aula 2. Nao e o catalogo inteiro dos 23 GoF.
 Os numeros das pastas sao identificadores, nao numeros das aulas.
